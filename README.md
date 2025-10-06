@@ -23,9 +23,9 @@ Sujeito a Alterações.
 * git add . → adicionar tudo o que tem alteração
 
 
-echo "# Infotcc" >> README.md 
-* git init ---
-* git add README.md ---
+echo "# Infotcc" --> README.md 
+* git init
+* git add README.md
 * git commit -m "primeiro commit" 
 * git branch -M main 
 * git remote add origin https://github.com/tccMotorola/Infotcc.git
